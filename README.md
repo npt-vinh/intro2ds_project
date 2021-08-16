@@ -1,4 +1,4 @@
-#Introduction to Data Science
+# Introduction to Data Science
 ### Collaborators
 | Student's ID | Full name                | Github account                               |
 | ------------ | ------------------       | -------------------------------------------- |
